@@ -46,9 +46,9 @@ COLORS = {
 }
 FALLBACK_COLOR = "#586e75"
 
-BG = "#1a1b27"
-TITLE_COLOR = "#70a5fd"
-TEXT_COLOR = "#38bdae"
+BG = "#12061b"
+TITLE_COLOR = "#c77dff"
+TEXT_COLOR = "#e0aaff"
 
 
 def api(url):

@@ -20,17 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: -3
-          THEME: tokyonight
-          EXCLUDE: "Swift,HTML,CSS,JavaScript"
-          AUTO_PUSH: true
-
       - name: Generate top languages card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

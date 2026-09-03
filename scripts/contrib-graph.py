@@ -18,12 +18,12 @@ import urllib.request
 USER = os.environ.get("CARD_USER", "lfvbrandao")
 OUTPUT = os.environ.get("CARD_GRAPH_OUTPUT", "assets/contributions.svg")
 
-BG = "#1a1b27"
-LINE = "#58a6ff"
-AREA = "#1f6feb"
-GRID = "#2c3050"
-TEXT = "#8b949e"
-TITLE = "#70a5fd"
+BG = "#12061b"
+LINE = "#c77dff"
+AREA = "#8A00C4"
+GRID = "#3a1a52"
+TEXT = "#c9a8e0"
+TITLE = "#c77dff"
 
 WIDTH, HEIGHT = 840, 260
 LEFT, RIGHT, TOP, BOTTOM = 60, 24, 64, 44
