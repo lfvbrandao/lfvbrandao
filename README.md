@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/lfvbrandao">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Seja+bem-vindo!+Eu+sou+o+Luiz+%F0%9F%91%8B" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com/?size=26&color=8A00C4&center=true&vCenter=true&repeat=false&width=560&lines=Bem+vindo!+Eu+sou+o+Luiz+Felipe!" alt="typing"/>
   </a>
 </div>
 
